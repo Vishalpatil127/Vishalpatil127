@@ -252,36 +252,6 @@ Currently focused on strengthening my **Java, DSA, SQL, backend and full-stack d
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vishalpatil127&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
-
----
-
-# 📊 Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishalpatil127&theme=tokyo-night&hide_border=true&area=true&radius=10" width="95%"/>
-
-</div>
-
----
-
-# 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Vishalpatil127/Vishalpatil127/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 # 🗺️ Developer Roadmap
 
 ```text
@@ -325,7 +295,7 @@ Currently focused on strengthening my **Java, DSA, SQL, backend and full-stack d
 ║  ☐ Learn Spring Boot deeply              ║
 ║  ☐ Build production-ready applications  ║
 ║  ☐ Build AI-powered products             ║
-║  ☐ Improve System Design                ║
+║  ☐ Improve System Design                 ║
 ║  ☐ Contribute to Open Source             ║
 ║  ☐ Crack a Software Developer Role 🚀    ║
 ║                                          ║
